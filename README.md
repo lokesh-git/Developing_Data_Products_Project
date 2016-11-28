@@ -7,5 +7,5 @@ This is the repository where Developing Data Products Project assignment is loca
 
 The application is accesible in: [https://lokesh-info28.shinyapps.io/Developing_Data_Products_Project/] (https://lokesh-info28.shinyapps.io/Developing_Data_Products_Project/)
 
-The Presentation of the Application is designed using R Presenter. The presentation could be visualized in:
+The Presentation of the Application is designed using R Presenter. The presentation could be visualized in: [http://rpubs.com/lokesh_info28/231119] (http://rpubs.com/lokesh_info28/231119)
 
